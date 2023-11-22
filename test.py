@@ -1,1 +1,1 @@
-my_value = 30
+my_value = 10
