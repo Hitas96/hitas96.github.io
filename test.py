@@ -1,1 +1,1 @@
-hi from second change
+my_value = 30
